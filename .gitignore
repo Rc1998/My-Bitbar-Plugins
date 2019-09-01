@@ -2,3 +2,4 @@
 # most of these are other existing BitBar plugins
 .DS_store
 weather.15m.py
+meta_package_manager.7h.py

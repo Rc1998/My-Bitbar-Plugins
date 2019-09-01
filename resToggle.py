@@ -1,4 +1,5 @@
 #!/Users/ryancampbell/BitBar/bin/python
+
 from os import system
 import sys
 from AppKit import NSScreen
@@ -15,7 +16,7 @@ def toggle():
         system(toggleRegularRes)
 
 if len(sys.argv) == 1:
-    print('{} | refresh=true terminal=false bash="/usr/local/bin/python3" param1="/Users/ryancampbell/BitBar/resToggle.py" param2=toggle'.format(int(screenHeight)))
+    print('{} | refresh=true terminal=false bash="/Users/ryancampbell/BitBar/bin/python" param1="/Users/ryancampbell/BitBar/resToggle.py" param2=toggle'.format(int(screenHeight)))
 else: 
     toggle()
 

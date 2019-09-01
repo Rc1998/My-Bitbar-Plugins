@@ -1,4 +1,4 @@
-#!/Users/ryancampbell/BitBar/bin/python
+#!/Users/ryancampbell/python/.venv/bitbar/bin/python
 
 import statsapi, datetime, calendar
 

@@ -2,7 +2,3 @@
 # most of these are other existing BitBar plugins
 .DS_store
 weather.15m.py
-.Python
-bin/
-include/
-lib/

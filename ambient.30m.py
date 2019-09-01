@@ -1,4 +1,4 @@
-#!/usr/local/bin/python3
+#!/Users/ryancampbell/BitBar/bin/python
 
 # BitBar plugin for random ambient soundtracks from '/Users/ryancampbell/Documents/ambient'
 import os, glob, sys

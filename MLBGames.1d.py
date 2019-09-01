@@ -1,4 +1,4 @@
-#!/usr/local/bin/python3
+#!/Users/ryancampbell/BitBar/bin/python
 
 import statsapi, datetime, calendar
 

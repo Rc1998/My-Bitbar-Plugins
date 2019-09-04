@@ -7,7 +7,7 @@ from random import randint
 dir = '/Users/ryancampbell/Documents/ambient'
 files = glob.glob(os.path.join(dir, '*.mp4'))
 
-print('● | color=#8628d7 size=32')
+print('● | color=#8628d7')
 print('---')
 print('Ambient')
 # print('Shuffle | terminal=true bash=/usr/bin/open param1={0}'.format(files[y]))

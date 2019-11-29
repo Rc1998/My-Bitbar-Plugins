@@ -3,3 +3,6 @@
 .DS_store
 weather.15m.py
 meta_package_manager.7h.py
+
+# Directories 
+deactivate/

@@ -1,4 +1,4 @@
-#!/Users/ryancampbell/python/.venv/bitbar/bin/python
+#!/Users/ryancampbell/python/.venv/bitbar/bin/python3
 
 from os import system
 import sys

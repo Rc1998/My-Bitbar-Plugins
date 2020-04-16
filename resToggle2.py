@@ -19,7 +19,7 @@ builtIn1050 = '/usr/local/bin/displayplacer "id:0AA6E386-CE2C-5EE2-CC95-F2B67DCD
 builtIn900 = '/usr/local/bin/displayplacer "id:0AA6E386-CE2C-5EE2-CC95-F2B67DCDF861 res:1440x900 color_depth:4 scaling:on origin:(0,0) degree:0"'
 
 # Construct the menu
-print("resToggle")
+print('●')
 print("---")
 
 print("Internal Retina Display")

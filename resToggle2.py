@@ -1,5 +1,12 @@
 #!/Users/ryancampbell/python/.venv/bitbar/bin/python3
 
+# <bitbar.title>resToggle 2</bitbar.title>
+# <bitbar.version>v2.0</bitbar.version>
+# <bitbar.author>Ryan Campbell</bitbar.author>
+# <bitbar.author.github>Rc1998</bitbar.author.github>
+# <bitbar.desc>Lists resolutions for screens and allows toggling between them.</bitbar.desc>
+# <bitbar.dependencies>python, displayplacer, AppKit</bitbar.dependencies>
+
 from os import system
 import sys
 from AppKit import NSScreen
@@ -12,7 +19,7 @@ builtIn1050 = '/usr/local/bin/displayplacer "id:0AA6E386-CE2C-5EE2-CC95-F2B67DCD
 builtIn900 = '/usr/local/bin/displayplacer "id:0AA6E386-CE2C-5EE2-CC95-F2B67DCDF861 res:1440x900 color_depth:4 scaling:on origin:(0,0) degree:0"'
 
 # Construct the menu
-print("MAIN_MENU")
+print("resToggle")
 print("---")
 
 print("Internal Retina Display")

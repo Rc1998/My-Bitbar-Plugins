@@ -1,5 +1,12 @@
 #!/bin/zsh
 
+# <bitbar.title>resToggle 2</bitbar.title>
+# <bitbar.version>v2.0</bitbar.version>
+# <bitbar.author>Ryan Campbell</bitbar.author>
+# <bitbar.author.github>Rc1998</bitbar.author.github>
+# <bitbar.desc>Lists resolutions for screens and allows toggling between them.</bitbar.desc>
+# <bitbar.dependencies>displayplacer</bitbar.dependencies>
+
 # Functions for each display option, includes the displayplacer command
 function internal900() {
     /usr/local/bin/displayplacer "id:0AA6E386-CE2C-5EE2-CC95-F2B67DCDF861 res:1440x900 color_depth:4 scaling:on origin:(0,0)"
